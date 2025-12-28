@@ -1,0 +1,5 @@
+{
+  "layout_family": ["timeline-flow","engagement-bars","stream-refresh"],
+  "strategy": "reference-blended",
+  "mutation_allowed": false
+}
